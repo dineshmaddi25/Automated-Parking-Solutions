@@ -27,20 +27,18 @@ python main.py
 ## Home
 ![1page](https://github.com/dineshmaddi25/Automated-Parking-Solutions/assets/123318750/18b9611c-b9a8-489c-ae01-dade445813e2)
 
-## Page 2
-![2ndpage](https://github.com/dineshmaddi25/Automated-Parking-Solutions/assets/123318750/6301c5e2-11a5-43ab-a83b-9920d4903fab)
 
-## page 3
+
+## page 2
 ![3rd page](https://github.com/dineshmaddi25/Automated-Parking-Solutions/assets/123318750/ccb076dc-a1aa-48a1-b662-cbe69c0d3952)
 
-## page 4
+## page 3
 ![4th page](https://github.com/dineshmaddi25/Automated-Parking-Solutions/assets/123318750/62a5e21b-f308-4028-87ea-3ebaa9458211)
 
-## ## page 5
+## ## page 4
 ![5th page](https://github.com/dineshmaddi25/Automated-Parking-Solutions/assets/123318750/fbbda30d-cc15-406c-b7c1-5d92a3eaa528)
 
-## page 6
-![7thpage](https://github.com/dineshmaddi25/Automated-Parking-Solutions/assets/123318750/0a98b4e9-c9e5-47d7-9cd6-915ca338eb8e)
+
 
 
 ### Contributing
